@@ -1,0 +1,148 @@
+
+#charmander {
+    color: white;
+    border-radius: 20px;
+    position: relative;
+    margin: 10px;
+    max-width: 140px;
+    width: 130px;
+    padding: 20px;
+    float:left;
+    background-color: #4aaaa5;
+    padding: 20px;
+    border: solid whitesmoke;
+}
+
+#bulbasaur {
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    margin: 10px;
+    max-width: 140px;
+    width: 110px;
+    float:left;
+    background-color: #4aaaa5;
+    padding: 20px;
+    border: solid whitesmoke;
+}
+
+#squirtle {
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    margin: 10px;
+    max-width: 120px;
+    width: 100px;
+    padding: 20px;
+    float:left;
+    background-color: #4aaaa5;
+    padding: 20px;
+    border: solid whitesmoke;
+}
+
+button {
+    border: none;
+    padding: none;
+    background-color: white;
+}
+
+#charbut {
+    position: relative;
+    background-color: none;
+}
+
+#box {
+    margin: 40px;
+    padding: 40px;
+    background-color: whitesmoke;
+}
+
+.navbar {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #4aaaa5;
+    border: #777777 solid 2px;
+}
+
+#textbox {
+    border-radius: 10px;
+    border: #777777 dashed 2px;
+    position: relative;
+    width: 1000px;
+    padding: 40px;
+    background-color: whitesmoke;
+}
+
+#atkbox {
+    float: right;
+    margin-left: 800px;
+    position: relative;
+    width: 100px;
+    color: white;
+    padding: 80px;
+    background-color: whitesmoke;
+}
+
+#atbox {
+    border-radius: 10px;
+    border: dashed 2px #777777;
+    height: 100px;
+    width: 320px;
+    float: right; 
+    margin-left: 1080px;
+    margin-bottom: 59px;
+    position: absolute;
+    padding-top: 0;
+    padding: 40px;
+    color: blue;
+    background-color: white;
+}
+
+#atkButton {
+    margin-left: 70px;
+    text-decoration: none;
+    color: black;
+    background-color:white;
+    font-size: 19pt;
+    font-family: 'Calibri';
+}
+
+
+
+body {
+    background-color: white;
+}
+
+
+
+#a1 {
+    float: left;
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    border: dashed skyblue 2px;
+    margin-top: 200px;
+    margin-left: 90px;
+}
+
+#you {
+    font-size: 14pt;
+    margin-top: 40px;
+}
+
+#a2 {
+     padding: 20px;
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    border: dashed red 2px;
+    margin-top: 20px;
+    margin-left: 820px;
+}
+
+#them {
+    font-size: 14pt;
+    margin-top: 40px;
+    margin-left: 300px;
+}
